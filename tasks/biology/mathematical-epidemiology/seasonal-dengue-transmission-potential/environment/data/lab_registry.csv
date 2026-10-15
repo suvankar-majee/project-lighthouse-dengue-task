@@ -1,0 +1,4 @@
+lab_id,institution,colony,temperature_record,reporting_notes
+GZ-INS,Provincial CDC insectary (vector competence unit),field-derived F3 Ae. aegypti,data-logger realised chamber temperature,"Virus incubation reported as EIP = days from infectious blood meal to 50% salivary-gland dissemination; immature traits from cohorts of first-instar larvae"
+FL-VBL,University vector biology laboratory,Rockefeller-derived Ae. aegypti,data-logger realised chamber temperature,"Temperatures recorded in degrees Fahrenheit; adult survival summarised as constant daily mortality rate fitted to each cohort; probabilities as percentages"
+KH-ENT,Municipal entomology unit,field-derived F2 Ae. aegypti,controller setpoint,"A 2022 independent logger audit of all KH-ENT growth chambers found realised temperatures 1.5 degC above the controller setpoint, uniformly across the 14-34 degC operating range; no setpoint data were corrected before submission"

@@ -1,0 +1,12 @@
+{
+    "agents": [
+        {
+            "name": "nop"
+        }
+    ],
+    "tasks": [
+        {
+            "path": "tasks/biology/mathematical-epidemiology/seasonal-dengue-transmission-potential"
+        }
+    ]
+}

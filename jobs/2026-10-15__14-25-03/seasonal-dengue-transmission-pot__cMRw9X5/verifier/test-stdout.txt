@@ -1,0 +1,28 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.8, pytest-8.4.1, pluggy-1.6.0
+rootdir: /tests
+collected 18 items
+
+../tests/test_outputs.py ..................                              [100%]
+
+==================================== PASSES ====================================
+=========================== short test summary info ============================
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[a]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[EFD]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[pEA]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[MDR]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[lf]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[b]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[c]
+PASSED ../tests/test_outputs.py::test_thermal_curve_matches_independent_fit[PDR]
+PASSED ../tests/test_outputs.py::test_density_column_follows_fitted_vector_model
+PASSED ../tests/test_outputs.py::test_r0_column_follows_fitted_transmission_model
+PASSED ../tests/test_outputs.py::test_constant_temperature_r0_matches_reference
+PASSED ../tests/test_outputs.py::test_constant_temperature_density_matches_reference
+PASSED ../tests/test_outputs.py::test_mean_temperature_of_homogenised_climate
+PASSED ../tests/test_outputs.py::test_survey_calibrated_mean_density
+PASSED ../tests/test_outputs.py::test_peak_density_timing
+PASSED ../tests/test_outputs.py::test_r0_at_mean_temperature
+PASSED ../tests/test_outputs.py::test_seasonal_r0_matches_reference
+PASSED ../tests/test_outputs.py::test_seasonal_r0_recomputed_from_agent_model
+============================= 18 passed in 30.84s ==============================

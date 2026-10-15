@@ -1,0 +1,7 @@
+{
+  "mean_temperature_c": 22.980412178377044,
+  "mean_females_per_person": 1.5459300943112053,
+  "peak_density_day_of_year": 256,
+  "r0_at_mean_temperature": 1.0695686712859278,
+  "r0_seasonal": 1.53112402299344
+}

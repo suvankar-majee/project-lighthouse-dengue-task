@@ -1,0 +1,116 @@
+{
+    "id": "45b253dd-f132-4017-b91c-87b04adc6f9a",
+    "task_name": "lighthouse/seasonal-dengue-transmission-potential",
+    "trial_name": "seasonal-dengue-transmission-pot__nGXmzE6",
+    "trial_uri": "file:///home/suvan/project-dengue/jobs/2026-10-15__14-26-31/seasonal-dengue-transmission-pot__nGXmzE6",
+    "task_id": {
+        "path": "tasks/biology/mathematical-epidemiology/seasonal-dengue-transmission-potential"
+    },
+    "source": null,
+    "task_checksum": "8e2ed336c29cd4144303cda579ee8f12045395ea926ce7e9ba3041277944b7d7",
+    "config": {
+        "task": {
+            "path": "tasks/biology/mathematical-epidemiology/seasonal-dengue-transmission-potential",
+            "git_url": null,
+            "git_commit_id": null,
+            "name": null,
+            "ref": null,
+            "overwrite": false,
+            "download_dir": null,
+            "source": null
+        },
+        "trial_name": "seasonal-dengue-transmission-pot__nGXmzE6",
+        "trials_dir": "jobs/2026-10-15__14-26-31",
+        "install_only": false,
+        "timeout_multiplier": 1.0,
+        "agent_timeout_multiplier": null,
+        "verifier_timeout_multiplier": null,
+        "agent_setup_timeout_multiplier": null,
+        "environment_build_timeout_multiplier": null,
+        "agent": {
+            "name": "nop",
+            "import_path": null,
+            "model_name": null,
+            "n_concurrent": null,
+            "concurrency_group": null,
+            "skills": [],
+            "override_timeout_sec": null,
+            "override_setup_timeout_sec": null,
+            "max_timeout_sec": null,
+            "resume_trajectory": false,
+            "load_trajectory": null,
+            "extra_allowed_hosts": [],
+            "kwargs": {},
+            "mcp_servers": []
+        },
+        "user_agent": null,
+        "environment": {
+            "type": "docker",
+            "import_path": null,
+            "force_build": false,
+            "delete": true,
+            "stream": false,
+            "cpu_enforcement_policy": "auto",
+            "memory_enforcement_policy": "auto",
+            "override_cpus": null,
+            "override_memory_mb": null,
+            "override_storage_mb": null,
+            "override_gpus": null,
+            "override_tpu": null,
+            "mounts": null,
+            "extra_docker_compose": [],
+            "kwargs": {},
+            "extra_allowed_hosts": []
+        },
+        "verifier": {
+            "override_timeout_sec": null,
+            "max_timeout_sec": null,
+            "disable": false
+        },
+        "artifacts": [],
+        "extra_instruction_paths": [],
+        "extra_instructions": [],
+        "job_id": "4b5f70c4-4072-40aa-8d6f-5a9e9faf2c09",
+        "source_trial": null
+    },
+    "agent_info": {
+        "name": "nop",
+        "version": "1.0.0",
+        "model_info": null
+    },
+    "agent_result": {
+        "n_input_tokens": null,
+        "n_cache_tokens": null,
+        "n_output_tokens": null,
+        "cost_usd": null,
+        "model_usage": null,
+        "rollout_details": null,
+        "metadata": null
+    },
+    "verifier_result": {
+        "rewards": {
+            "reward": 0.0
+        }
+    },
+    "verifier_environment_mode": "shared",
+    "exception_info": null,
+    "started_at": "2026-10-15T14:26:31.798057Z",
+    "finished_at": "2026-10-15T14:26:51.785034Z",
+    "environment_setup": {
+        "started_at": "2026-10-15T14:26:31.826470Z",
+        "finished_at": "2026-10-15T14:26:42.751666Z"
+    },
+    "agent_setup": {
+        "started_at": "2026-10-15T14:26:42.751736Z",
+        "finished_at": "2026-10-15T14:26:42.751826Z"
+    },
+    "agent_execution": {
+        "started_at": "2026-10-15T14:26:42.751976Z",
+        "finished_at": "2026-10-15T14:26:42.752664Z"
+    },
+    "verifier": {
+        "started_at": "2026-10-15T14:26:43.640707Z",
+        "finished_at": "2026-10-15T14:26:47.272895Z"
+    },
+    "step_results": null
+}

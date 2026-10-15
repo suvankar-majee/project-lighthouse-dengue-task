@@ -1,0 +1,11 @@
+{
+    "task": {
+        "path": "tasks/biology/mathematical-epidemiology/seasonal-dengue-transmission-potential"
+    },
+    "trial_name": "seasonal-dengue-transmission-pot__nGXmzE6",
+    "trials_dir": "jobs/2026-10-15__14-26-31",
+    "agent": {
+        "name": "nop"
+    },
+    "job_id": "4b5f70c4-4072-40aa-8d6f-5a9e9faf2c09"
+}
